@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "459eddce4414a4df4c18701e8cc81d80",
+    "revision": "6934ff74e6afd5ef9ee7477b9d52fc8b",
     "url": "https://travel.smartconsumer.kr/index.html"
   },
   {
-    "revision": "b8bc6904f30b34e46ca3",
+    "revision": "56b516086b6cc266f65c",
     "url": "https://travel.smartconsumer.kr/static/css/main.9e526bb0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://travel.smartconsumer.kr/static/js/2.e9187b5c.chunk.js"
   },
   {
-    "revision": "b8bc6904f30b34e46ca3",
-    "url": "https://travel.smartconsumer.kr/static/js/main.b574641b.chunk.js"
+    "revision": "56b516086b6cc266f65c",
+    "url": "https://travel.smartconsumer.kr/static/js/main.f9e66f8c.chunk.js"
   },
   {
     "revision": "3c3546c2fd04b93e5795",

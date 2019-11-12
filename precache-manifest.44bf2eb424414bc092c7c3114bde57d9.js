@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d69d32bf056a8a2597eca7109867757",
+    "revision": "f8104887081c2b027e5df281095131a5",
     "url": "https://travel.smartconsumer.kr/index.html"
   },
   {

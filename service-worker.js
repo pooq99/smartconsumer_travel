@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://travel.smartconsumer.kr/precache-manifest.44bf2eb424414bc092c7c3114bde57d9.js"
+  "https://travel.smartconsumer.kr/precache-manifest.8b0694e69c07f681cf1d9640b9febcd6.js"
 );
 
 self.addEventListener('message', (event) => {
